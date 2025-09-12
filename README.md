@@ -1,6 +1,6 @@
 ### Rohit Deshmukh
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast | ☁️ Cloud Explorer
+💻 Full Stack Developer | 🤖 AI Enthusiast | ☁️ Cloud Explorer
 
 Hi there! I'm Rohit 👋 — a curious mind passionate about crafting impactful tech solutions.  
 From **MERN stack apps** to **AI-powered systems** and **cloud-based projects**, I love blending creativity with code.  
