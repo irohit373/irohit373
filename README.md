@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @irohit373
-- 👀 I’m interested in AOSP, DSA, Python, etc.
-- 🌱 I’m currently learning JavaAOSPdevelopment
-- 💞️ I’m looking to collaborate on AOSP
-- 📫 deshmukhrohit373@gmail.com
+# 🌟 Rohit Deshmukh
 
-<!---
-irohit373/irohit373 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | ☁️ Cloud Explorer
+
+Hi there! I'm Rohit 👋 — a curious mind passionate about crafting impactful tech solutions.  
+From **MERN stack apps** to **AI-powered systems** and **cloud-based projects**, I love blending creativity with code.  
+
+✨ Currently exploring **Machine Learning, Compiler Design, and Cloud Computing**.  
+🤝 Always open to collaborating on innovative and community-driven projects.  
+📌 Dive into my work here: [irohit373](https://github.com/irohit373)
+
+---
+💡 *Code. Learn. Share. Grow.*
+
