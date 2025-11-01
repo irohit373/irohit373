@@ -1,13 +1,20 @@
-### Rohit Deshmukh
+# Rohit Deshmukh
 
-💻 Full Stack Developer | 🤖 AI Enthusiast | ☁️ Cloud Explorer
-
-Hi there! I'm Rohit 👋 — a curious mind passionate about crafting impactful tech solutions.  
-From **MERN stack apps** to **AI-powered systems** and **cloud-based projects**, I love blending creativity with code.  
-✨ Currently exploring **Machine Learning, FULLSTACK APP, and Cloud Computing**.  
-🤝 Always open to collaborating on innovative and community-driven projects.  
-📌 Dive into my work here: [irohit373](https://github.com/irohit373)
+**Full Stack Developer · AI Enthusiast · Product Builder**  
+*Creating impactful solutions with MERN, Machine Learning, and Cloud*
 
 ---
-💡 *Code. Learn. Share. Grow.*
 
+🌟 Hi, I'm Rohit!  
+- Final Year B.Tech · Indore, India
+- Passionate about web apps, product management & building real-world tech.
+- Skilled in **MERN Stack**, **AI/ML**, Cloud, and Fullstack Engineering.
+- Open to collaboration, new ideas, and creative projects.
+
+---
+
+[🗂️ Explore my projects](https://github.com/irohit373)
+
+---
+
+*Code. Learn. Build. Grow.*
